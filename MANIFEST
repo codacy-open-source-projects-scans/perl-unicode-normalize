@@ -1,0 +1,20 @@
+Changes		# Changes
+LICENSE
+Makefile.PL
+MANIFEST	MANIFEST for pure perl
+mkheader	generate headers for xs code
+Normalize.pm	perl module for pure perl
+Normalize.xs	xs code
+README		# README
+t/fcdc.t
+t/form.t
+t/func.t
+t/illegal.t
+t/norm.t
+t/null.t
+t/partial1.t
+t/partial2.t
+t/proto.t
+t/split.t
+t/test.t
+t/tie.t
